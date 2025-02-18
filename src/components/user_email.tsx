@@ -65,7 +65,7 @@ const UserEmail = ({ setStep }: UserEmailProps) => {
         
         // save user name and email to db
         try {
-            await fetch("http://localhost:3900/user", {
+            await fetch("https://moi-backend-rzqr.onrender.com/user", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
