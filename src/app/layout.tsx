@@ -35,9 +35,9 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://babynames.motherofinvention.com/favicon_moi.png",
+        url: "https://motherofinvention.com/cdn/shop/files/Website_Social_Share_Image.png",
         width: 1200,
-        height: 630,
+        height: 628,
         alt: "Mother of Invention – AI-powered baby name generator",
       },
     ],
@@ -48,14 +48,14 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Mother of Invention – Find the Perfect Name!",
     description: "Find the perfect baby name with our AI-powered name generator.",
-    images: "https://babynames.motherofinvention.com/HorizontalLogo_moi.png"
+    images: "https://motherofinvention.com/cdn/shop/files/Website_Social_Share_Image.png"
   },
   alternates: {
     canonical: "https://babynames.motherofinvention.com/",
   },
   other: {
     "og:image:width": "1200",
-    "og:image:height": "630",
+    "og:image:height": "628",
     "og:image:type": "image/png",
     "twitter:image:alt": "Mother of Invention – AI-powered baby name generator",
   },
